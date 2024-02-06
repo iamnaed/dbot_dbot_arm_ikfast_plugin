@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="dbot_dbot_arm_moveit_ikfast_plugin">
+  <class name="dbot_dbot_arm/IKFastKinematicsPlugin" type="dbot_dbot_arm::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics of dbot dbot_arm</description>
+  </class>
+</library>
