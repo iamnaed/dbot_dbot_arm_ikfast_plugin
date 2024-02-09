@@ -1,0 +1,4 @@
+[1] To properly install IKFast Kinematic plugin, install python-is-python3. when there is an error, generating 
+    the IKFast solver plugin will fail
+    
+    sudo apt install python-is-python3
